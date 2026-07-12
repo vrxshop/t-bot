@@ -5,7 +5,7 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.INFO)
 
 # Твой Telegram бот и ID админа (замени на свои)
-BOT_TOKEN = "8298399133:AAFl5uIYOCCXIh6TM6Dn0AonL-Lyq39Wa3s"  # Замени на реальный токен
+BOT_TOKEN = "8843954886:AAEpfaWLm6sTfmq2T-mShBilX8mInCXs3as"  # Замени на реальный токен
 ADMIN_ID = 8559381302    # Замени на твой Telegram ID
 
 @app.route('/webhook', methods=['POST'])
