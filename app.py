@@ -6,7 +6,7 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.INFO)
 
 # Конфигурация
-BOT_TOKEN = "8843954886:AAE_s8K-qw2gFn7Z2zQmd9pvt81Cwxya9tA"
+BOT_TOKEN = "8843954886:AAG7qoHY8qaWJv2a7iJ677FNIZUkWX3cTmI"
 ADMIN_ID = 8559381302
 
 # --- ЭНДПОИНТ ДЛЯ UPTIMEROBOT (GET) ---
